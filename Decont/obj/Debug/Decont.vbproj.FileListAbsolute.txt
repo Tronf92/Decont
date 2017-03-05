@@ -1,0 +1,10 @@
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\obj\Debug\Decont.Decont.resources
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\obj\Debug\Decont.Resources.resources
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\obj\Debug\Decont.vbproj.GenerateResource.Cache
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\bin\Debug\Decont.exe.config
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\bin\Debug\Decont.exe
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\bin\Debug\Decont.pdb
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\bin\Debug\Decont.xml
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\obj\Debug\Decont.exe
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\obj\Debug\Decont.xml
+C:\Users\Ady\documents\visual studio 2012\Projects\Decont\Decont\obj\Debug\Decont.pdb
